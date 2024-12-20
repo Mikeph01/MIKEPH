@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GMA" group-title="1. LOCAL CHANNEL" ch-number = "" tvg-logo="",GMA
+https://raw.githubusercontent.com/Mikeph01/MIKEPH/refs/heads/main/Gma.m3u8
