@@ -26,7 +26,9 @@ https://ott.studentsdemo.com/stream/phcathenatv/gma/master.m3u8?u=phc&p=952839dd
 https://ott.studentsdemo.com/stream/phcathenatv/gtv/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
 
 #EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5z9hkqxzC7ilZTPo4_19hPa64gKKTS5oeBA&usqp=CAU", KAPAMILYA CHANNEL HD
-https://ott.studentsdemo.com/stream/phcathenatv/kapamilyachannel/master.m3u8?u=phc&p=952839dd924747ba61aac23a9311e8c8ff7013327d77fcf7df5067d0cea83fc4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",TELERADYO
