@@ -4,6 +4,9 @@
 
 #EXTINF:-1 group-logo="https://piggotts.co.uk/wp-content/uploads/2018/01/2000px-Flag_of_the_Philippines.svg_.png"
 
+#EXTINF:-1 tvg-id="AXN" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOAhwd2KENxQkseFRzfAU1fi6A_WHP44yZg&s" ch-number="1", 01. BUDOTS MUNA
+https://shorten.is/BUDOTS?.m3u8
+
 #EXTINF:-1 tvg-id="AXN" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVAAGb6KKKmprYHK97AFfZXUwDDnMXv9Brg&s" ch-number="1", BINI DOCUMENTARY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6f3f3da9df411ef9686ed2e43843923:f55507a0bf3d3bfa0038852e8a3b6f26
