@@ -1,598 +1,1110 @@
-#EXTM3U
+#EXTM3U 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pnghut.com/25/24/21/CZB9D1qyfu/news-broadcasting-red-symbol-sphere-philippines.jpg" group-title="PINOY", 01. TV5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CONVERGE VISION INFO" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CONVERGE VISION INFO
+http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/1?.mpd?token=r4r578fyjh3678ggtt219
-
-
-
-
-EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/ABS-CBN_%282013%29.svg", 04. ABS-CBN
-https://shorten.is/Mikeph-kapamilya-onlinelive-m3u8
-
-#EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://www.logolynx.com/images/logolynx/df/df68e11201d36cdb11f944c035a4d72b.jpeg", 06. TFC 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/84?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/200?cb=20220716040159" group-title="PINOY", 05. A2Z
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/3?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7f/RPTV_Logo_2024.png/revision/latest/scale-to-width-down/80?cb=20240305140759" group-title="PINOY", 07. RPTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/4?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" ch-number="03" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10", 06. KAPAMILYA CHANNEL 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/5?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="kapcha" tvg-name="KAPAMILYA (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",KAPAMILYA (TFC)
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title="PINOY", 08. PTV 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kapcha1" tvg-name="KAPAMILYA HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KAPAMILYA HD (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kapcha2" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KAPAMILYA SD (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/6?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",TFC ASIA
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="PINOY", 09. BUKO CHANNEL 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/7?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
+#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",TFC EUROPE
+https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/36/Sari-Sari_Channel_Logo_2016.png/revision/latest/scale-to-width-down/300?cb=20210301154319" group-title="PINOY", 10. SARI SARI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/8?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
+#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",TFC CANADA
+https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="PINOY", 11. IBC13
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/9?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",CINEMO TFC
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo!_3D_Logo_2011.png/revision/latest/scale-to-width-down/300?cb=20210301131124" tvg-name="" group-title="PINOY", 14. CINEMO
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/10?.m3u8?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.logo.wine/a/logo/Cinema_One/Cinema_One-Logo.wine.svg" tvg-name="" group-title="PINOY", 15. CINEMA ONE 
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/11?.m3u8?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="PINOY", 16. PBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/12?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+#EXTINF:-1 tvg-id="cinemaonetfc" tvg-name="CINEMAONE TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",CINEMAONE TFC
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.WZu12on180yXWnLkIl4whQHaEK?rs=1&pid=ImgDetMain" group-title="PINOY", 17. THRILL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/13?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",TELERADYO (TFC)
+https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="teleradyo2" tvg-name="TELERADYO (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TELERADYO (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.Ff_fy8A05o_RZZIBvzhqkQAAAA?rs=1&pid=ImgDetMain" group-title="PINOY", 19. TMC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/14?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png", 05. TELERADYO
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/2?.m3u8?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f000de90-2048-4d0b-bd1f-d8d146779bc4/det3ewh-c49c39c9-7b5c-4f03-b5ef-646c2c61c716.png/v1/fill/w_600,h_228/_mock__viva_cinema_logo_2001_by_ntxl351_det3ewh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI4IiwicGF0aCI6IlwvZlwvZjAwMGRlOTAtMjA0OC00ZDBiLWJkMWYtZDhkMTQ2Nzc5YmM0XC9kZXQzZXdoLWM0OWMzOWM5LTdiNWMtNGYwMy1iNWVmLTY0NmMyYzYxYzcxNi5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.uzgoYX5IIrJYNEgpkGNcfCOrBhL_IIZhuvEdBbqI6d8" group-title="PINOY", 20. VIVA CIMEMA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
+#EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",ANC HD (TFC)
+https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="anc2" tvg-name="ANC HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ANC HD (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="myxph" tvg-name="MYX PHILIPPINES" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",MYX PHILIPPINES (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/15?.m3u8?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryVjRiL1_mN3l9OBntbfYCx8Fc5yvm8YEUg&usqp=CAU" tvg-name="" group-title="PINOY", 02. GMA TV
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/76?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" tvg-name="" group-title="PINOY", 02. GTV
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/77?.m3u8?token=r4r578fyjh3678ggtt219
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
+#EXTINF:-1 tvg-id="myxtfc" tvg-name="MYX TFC" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",MYX (TFC)
+https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbda230f9f7d779f429385b49c156ac7:44242e42ba3c3c36b13e5085b3937617
-#EXTINF:4 tvg-id="HEART OF ASIA" provider="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJwpGz8Hy5ryi64g6CR4a52nXPgxZLe1LvA&usqp=CAU" provider-logo="" provider-type="iptv" group-title="PINOY",Heart Of Asia
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/1316?.mpd?token=r4r578fyjh3678ggtt219
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
+#EXTINF:-1 tvg-id="morenter" tvg-name="MOR ENTERTAINMENT" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",MOR ENTERTAINMENT (TFC)
+https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https://www.iwanttfc.com/
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e75f0360828d047b0fb7eb3fbe40ad3:c33bc1ba6b3b19aac1109461b9100f5f
-#EXTINF:5 tvg-id="I HEART MOVIES" provider="PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" provider-logo="" provider-type="iptv" group-title="PINOY",I Heart Movies
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/1317?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXoj8B44LUmJgtUZQ25kAwspLTPbWD1Znw&s" group-title="PINOY", 22. HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=141288d93b0f4f89a3f614a365671411:ccd2e8162c5fe3f6d5207fb941c09686
+#EXTINF:-1 tvg-id="knowchantfc" tvg-name="KNOWLEDGE CHANNELS" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",KNOWLEDGE CHANNELS (TFC)
+https://abslive.akamaized.net/dash/live/2028189/kc/manifest.mpd|Referer=https://www.iwanttfc.com/
+
+#EXTINF:-1 tvg-id="xromkapuso" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="PINOY",xROMTv InFo
+https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CONVERGE VISION INFO" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CONVERGE VISION INFO
+http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="gma7ph1" tvg-name="GMA 7 (CON01)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",GMA 7 (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV (CON01)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",GTV (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/16?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="PINOY", 23. HBO FAMILY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+#EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",GMA PINOY TV (TFC)
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/17?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="PINOY", 24. HBO SIGNATURE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=4b66176b0f0748e38c6db27263f6f1a1:12ca5ae7cf4772736945689727961aec
+#EXTINF:-1 tvg-id="gmapinoytv2" tvg-name="GMA PINOY TV (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",GMA PINOY TV (TFC)
+https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd|Referer=https://www.iwanttfc.com/
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/18?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PINOY", 25. HBO HITS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=369bcd591a7e42cea6a829879962ee77:7c0548d4ea14676297c0a36ea0e06301
+#EXTINF:-1 tvg-id="gmalifetv" tvg-name="GMA LIFE TV" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",GMA LIFE TV (TFC)
+https://absp-live.akamaized.net/dash/live/2099524/gmalf/manifest.mpd|Referer=https://www.iwanttfc.com/
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/19?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="PINOY", 26. CENEMAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/20?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/R.88256ba5d8a002dad0a210a2af84db8e?rik=Ozw3TcnjBZgKrQ&riu=http%3a%2f%2fwww.tapdmv.com%2flogo-TapMovies-2021.png&ehk=METEdvYRHjzywPX6UlLVdNOPJ3n%2b6FzI7V7P" group-title="PINOY", 27. TAP MOVIES HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/21?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tapdmv.com/logo-TapActionFlix-2021.png" group-title="PINOY", 28. TAP ACTION FLIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/22?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnooWK9mfo3egjw3scNfbGRZRCYNUEmSPHD8ZGVxaphqRnounKx2KHT4&s=10" group-title="PINOY", 29. HITS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/23?.mpd?token=r4r578fyjh3678ggtt219
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 29.1 HITS MOVIES
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856762412b11edb8780242ac120002:7199bc900b9e23087d3a2c0c6d4edce4
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/24?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
+#EXTINF:-1 tvg-id="gmanewstv" tvg-name="GMA NEWS TV" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PINOY",GMA NEWS TV (TFC)
+https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd|Referer=https://www.iwanttfc.com/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-ntOmelaOpQq5DsmOeCCjzK_bfEbffqKzA&s" group-title="PINOY", 30. KIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/25?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="xromcigloc" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="PINOY",xROMTv InFo
+https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiPUyKYroLpj6R_ryYFmnxkrz2ssxZPjYjh5byckvQYUPxp7s_wbMtsgI&s=10" group-title="PINOY", 31. TVN MOVIES PINOY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/26?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CONVERGE VISION INFO" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CONVERGE VISION INFO
+http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 32. TVNPRE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/27?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="alltvph1" tvg-name="ALL TV #01" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ALL TV
+http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 33. LOTUS MACAU
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/28?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="bilyocha1" tvg-name="BILYONARYO CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",BILYONARYO CHANNEL (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="PINOY", 34. ONESPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/29?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="PINOY", 35. ONE SPORTS+ HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/30?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.ThotwKegMgdhfX4hz-zW7QHaEK?rs=1&pid=ImgDetMain" group-title="PINOY", 36. UAAP VARSITY CH 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/31?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="PINOY", 37. PBA RUSH HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/32?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMLnQ1wzZf64E0Yuwkr7QWGMaVnjzmTn1BA&s", 37. NBA TV PHILIPPINES 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/33?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 38. TAP SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/34?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="PINOY", 39. CARTOON NETWORK 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/35?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="PINOY", 41. DREAMWORKS TAGALOG
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/36?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZIOEq63Wg1MYFUHGSpi4YYxXCCzO-_BMoaf7U-A1HlAD5JaCN_1EIO4&s=10" group-title="PINOY", 42. DREAMWORKS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/37?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo-2009-present-700x394.png" group-title="PINOY", 43. NICK JR
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/38?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="PINOY", 44. NICKELODEON
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/39?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 45. MOONBUG KIDS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/40?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaU41eAlTzreemeMu9mZC7P_T4lT-J9uC9w&s" group-title="PINOY", 46. ANIMAX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/41?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.meainbacolod.com/wp-content/uploads/2019/08/One-PH-logo-1-1024x791.png" group-title="PINOY", 47. ONE PH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/42?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/OneNewsPH_logo.svg" group-title="PINOY", ONE NEWS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/43?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 48. KBS WORLD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/44?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 49. TAP EDGE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f854034412b11edb8780242ac120002:af8ad1c5e3f2e1b751a4f64608f24275
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/45?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 50. CCTV4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f8541ec412b11edb8780242ac120002:6cf16c272b7357c48cd47061799a4963
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/46?.mpd?token=r4r578fyjh3678ggtt219
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 51.ARIRANG
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/47?.mpd?token=r4r578fyjh3678ggtt219
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 52. DR LIFETIME
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/48?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 53.HGTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/49?.mpd?token=r4r578fyjh3678ggtt219
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 54. ALJAZEERA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f85362a412b11edb8780242ac120002:d643dfbbfca6dc64e7f58fd67ea4b7d5
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/50?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 55. FOODNETWORK HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/51?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 56. DEP-ED CH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/52?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 57. HISTORY HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/53?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 58. FASHION TV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/54?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 59. BLOOMBERG
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/55?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 60. NHK JAPAN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f853990412b11edb8780242ac120002:89d57dfef804fd9b5c788a54903d8256
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/56?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 61. WARNERTV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/57?.mpd?token=r4r578fyjh3678ggtt219
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 62. CGTN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/58?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 63. AXN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/59?.mpd?token=r4r578fyjh3678ggtt219
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 64. KNOWLEDGE CHANNEL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/60?.mpd?token=r4r578fyjh3678ggtt219
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="PINOY" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg", 65. NICKELODEON
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/61?.mpd?token=r4r578fyjh3678ggtt219
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 66. BILYONARYOCH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/62?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",BILYONARYO CHANNEL (CIG)
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tv5ph1" tvg-name="TV5 HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TV5 HD (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="", 67. SONY CHANNEL HD fix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/63?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+#EXTINF:-1 tvg-id="tv5ph2" tvg-name="TV5 HD (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TV5 HD (CIG)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="a2z1" tvg-name="A2Z (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",A2Z (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 68. TRUE FM TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+#EXTINF:-1 tvg-id="a2z2" tvg-name="A2Z (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",A2Z (CIG)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="net25" tvg-name="NET25" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",NET25 (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="ibc1ph" tvg-name="IBC (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",IBC (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
+#EXTINF:-1 tvg-id="ibc2ph" tvg-name="IBC (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",IBC (CIG)
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="untvph" tvg-name="UNTV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",UNTV (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="ptv41ph" tvg-name="PTV4 (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",PTV4 (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+#EXTINF:-1 tvg-id="ptv42ph" tvg-name="PTV4 (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PTV4 (CIG)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="dzrhtv" tvg-name="DZRH TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",DZRH TV (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="knowlegecha1" tvg-name="KNOWLEDGE CHANNELS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KNOWLEDGE CHANNELS (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
+#EXTINF:-1 tvg-id="knowlegecha2" tvg-name="KNOWLEDGE CHANNELS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",KNOWLEDGE CHANNELS (CIG)
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
+#EXTINF:-1 tvg-id="depedtv" tvg-name="DEPED TV" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",DEPED TV
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
+#EXTINF:-1 tvg-id="tvup" tvg-name="TVUP" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TVUP
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="aliwtv" tvg-name="ALIW CHANNEL 23" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ALIW CHANNEL 23 (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="centralluzon" tvg-name="CLTV 36" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CLTV 36
+http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="spotlighttv" tvg-name="SPOTLIGHT TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",SPOTLIGHT TV
+http://143.44.136.110:6910/001/2/ch00000090990000001134/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="rjtv1" tvg-name="RJ TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",RJ TV
+http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="rjtv2" tvg-name="RJTV 29" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",RJTV 29
+http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="onemedia" tvg-name="ONE MEDIA" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ONE MEDIA
+http://143.44.136.110:6910/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="lachtv" tvg-name="LACH TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",LACH TV
+http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="oneph1" tvg-name="ONE PH (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ONE PH (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+#EXTINF:-1 tvg-id="oneph2" tvg-name="ONE PH (CIG)" tvg-logo="https://i.imgur.com/GVoB0aC.png" group-title="PINOY",ONE PH (CIG)
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="onenews1" tvg-name="ONE NEWS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ONE NEWS (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001084/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+#EXTINF:-1 tvg-id="onenews2" tvg-name="ONE NEWS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ONE NEWS (CIG)
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/64?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="truefmph" tvg-name="TRUE FM" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TRUE FM
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 69. HITS NOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="dzbbsuper" tvg-name="DZBB SUPER RAYDO" tvg-logo="https://i.imgur.com/w6jK02p.jpg" group-title="PINOY",DZBB SUPER RAYDO
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="xromcigcpnv" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="PINOY",xROMTv InFo
+https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CONVERGE VISION INFO" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CONVERGE VISION INFO
+http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cinemoph" tvg-name="CINEMO PHIL." tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CINEMO PHILIPPINES (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CINEMAONE PHILIPPINES (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="vivacinema1" tvg-name="VIVA CINEMA (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",VIVA CINEMA (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001079/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+#EXTINF:-1 tvg-id="vivacinema2" tvg-name="VIVA CINEMA (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",VIVA CINEMA (CIG)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="pbo1" tvg-name="PBO (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",PBO (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001078/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+#EXTINF:-1 tvg-id="pbo2" tvg-name="PBO (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PBO (CIG)
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="star1p" tvg-name="STAR 1" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",STAR 1
+http://143.44.136.110:6910/001/2/ch00000090990000001202/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cinemaworldconv" tvg-name="CINEMAWORLD" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CINEMAWORLD
+http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tapactionflix1" tvg-name="TAP ACTION FLIX (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TAP ACTION FLIX (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001305/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+#EXTINF:-1 tvg-id="tapactionflix2" tvg-name="TAP ACTION FLIX (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TAP ACTION FLIX (CIG)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tapmovies1" tvg-name="TAP MOVIES (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TAP MOVIES (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001304/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+#EXTINF:-1 tvg-id="tapmovies2" tvg-name="TAP MOVIES (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TAP MOVIES (CIG)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tvtap1" tvg-name="TAP TV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TAP TV (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001149/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+#EXTINF:-1 tvg-id="tvtap2" tvg-name="TAP TV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TAP TV (CIG)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tapedge1" tvg-name="TAP EDGE (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TAP EDGE (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
+#EXTINF:-1 tvg-id="tapedge2" tvg-name="TAP EDGE (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TAP EDGE (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+#EXTINF:-1 tvg-id="tvnmoviespinoy" tvg-name="TVN MOVIES PINOY" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TVN MOVIES PINOY
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tagalogmovie1" tvg-name="T-M-C (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TMC (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
+#EXTINF:-1 tvg-id="tagalogmovie2" tvg-name="T-M-C (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",T-M-C (CIG)
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="celestialmovie" tvg-name="CELESTIAL MOVIE PINOY" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CELESTIAL MOVIE PINOY
+http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="ccmmoviescha" tvg-name="CCM MOVIES CHANNEL" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CCM MOVIES CHANNEL
+http://143.44.136.111:6910/001/2/ch00000090990000001244/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853b34412b11edb8780242ac120002:a7cc625eb0c7cf5f2a334f5e05e87fab
+#EXTINF:-1 tvg-id="cigparamount" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PARAMOUNT NETWORK
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_paramount.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cinemaxph1" tvg-name="CINEMAX (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CINEMAX (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+#EXTINF:-1 tvg-id="cinemaxph2" tvg-name="CINEMAX (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",CINEMAX (CIG)
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="hbo1" tvg-name="HBO (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",HBO (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HBO (CIG)
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="hbohits1" tvg-name="HBO HITS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",HBO HITS (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001284/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+#EXTINF:-1 tvg-id="hbohits2" tvg-name="HBO HITS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HBO HITS (CIG)
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="hbosignature1" tvg-name="HBO SIGNATURE (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",HBO SIGNATURE (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001285/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+#EXTINF:-1 tvg-id="hbosignature2" tvg-name="HBO SIGNATURE (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HBO SIGNATURE (CIG)
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HBO FAMILY HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+#EXTINF:-1 tvg-id="hitsph" tvg-name="HITS" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HITS
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/65?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="hitsnow" tvg-name="HITS NOW" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HITS NOW
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 70. ANIMAL PLANET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/66?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+#EXTINF:-1 tvg-id="hitsmoviesph" tvg-name="HITS MOVIES" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HITS MOVIES
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="thrillph1" tvg-name="THRILL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",THRILL (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 71. BLUEANT EXTREME
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+#EXTINF:-1 tvg-id="thrillph2" tvg-name="THRILL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",THRILL (CIG)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/67?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="rockactionph" tvg-name="ROCK ACTION" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ROCK ACTION
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 71. BBC EARTH HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/68?.mpd?token=r4r578fyjh3678ggtt219
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 73. ROCK ENTERTAINMENT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/69?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="rckentmnt" tvg-name="ROCK ENTERTAIMENT" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ROCK ENTERTAIMENT
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="lotusmacauph1" tvg-name="LOTUS MACAU (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",LOTUS MACAU (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001196/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 74. CRIME INVESTIGATION
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/70?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
+#EXTINF:-1 tvg-id="lotusmacauph2" tvg-name="LOTUS MACAU (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",LOTUS MACAU (CIG)
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 
+#EXTINF:-1 tvg-id="xromcigent" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="PINOY",xROMTv InFo
+https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 75. TECH STORM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="solarflix" tvg-name="SOLARFLIX" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",SOLARFLIX
+http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="jeepney" tvg-name="JEEPNEY TV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",JEEPNEY TV
+http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/71?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+#EXTINF:-1 tvg-id="sari-sari" tvg-name="SARI-SARI" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",SARI-SARI
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 76. POPUP PPV HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/72?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+#EXTINF:-1 tvg-id="bukotvph" tvg-name="BUKO TV" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",BUKO TV
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 77. MPTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+#EXTINF:-1 tvg-id="tvnmpremiumhd" tvg-name="TVN PREMIUM HD" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TVN PREMIUM HD
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="axnph1" tvg-name="AXN CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",AXN CHANNEL (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
+#EXTINF:-1 tvg-id="axnph2" tvg-name="AXN CHANNEL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",AXN CHANNEL (CIG)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="lifetimeph1" tvg-name="LIFETIME (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",LIFETIME (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001075/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
+#EXTINF:-1 tvg-id="lifetimeph2" tvg-name="LIFETIME (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",LIFETIME (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
+
+#EXTINF:-1 tvg-id="xromcigsports" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="PINOY",xROMTv InFo
+https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="nbaph1" tvg-name="NBA TV PH (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",NBA TV PH (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+#EXTINF:-1 tvg-id="nbaph2" tvg-name="NBA TV PH (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",NBA TV PH (CIG)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+#EXTINF:-1 tvg-id="rptvshd" tvg-name="RPTV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",RPTV (CIG)
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="rptvsd" tvg-name="RPTV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",RPTV (CON)
+http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+#EXTINF:-1 tvg-id="pbarush" tvg-name="PBA RUSH HD" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PBA RUSH HD
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+#EXTINF:-1 tvg-id="onesportshd" tvg-name="ONE SPORTS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ONE SPORTS (CIG)
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="onesportssd" tvg-name="ONE SPORTS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ONE SPORTS (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+#EXTINF:-1 tvg-id="onesportsplus" tvg-name="ONE SPORTS PLUS" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ONE SPORTS PLUS
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="v-leagueph" tvg-name="V-LEAGUE HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",V-LEAGUE HD (CON)
+http://143.44.136.111:6910/001/2/ch00000090990000001195/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+#EXTINF:-1 tvg-id="uaapvarsity" tvg-name="UAAP VARSITY" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",UAAP VARSITY
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/73?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="mptvph" tvg-name="MEDIA PILIPINAS TV" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",MEDIA PILIPINAS TV
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 78. CNN HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="motorvision" tvg-name="MOTOR VISION+" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",MOTOR VISION+
+http://143.44.136.110:6910/001/2/ch00000090990000001245/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="EUROSPORT" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",EUROSPORT
+http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tapsports1" tvg-name="TAP SPORTS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TAP SPORTS (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001151/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+#EXTINF:-1 tvg-id="tapsports" tvg-name="TAP SPORTS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TAP SPORTS (CIG)
+fx1Y2Ehhttps://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="pinoyxtream" tvg-name="PINOY XTREAM CHANNEL" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",PINOY XTREAM CHANNEL
+http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="solarsports" tvg-name="SOLAR SPORTS" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",SOLAR SPORTS
+http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="slajunior" tvg-name="SLA JUNIOR" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",SLA JUNIOR
+http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="premierfootball" tvg-name="PREMIER FOOTBALL" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",PREMIER FOOTBALL
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="spotvph1" tvg-name="SPOTV HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",SPOTV HD (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTINF:-1 tvg-id="spotvph11" tvg-name="SPOTV HD (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",SPOTV HD (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="spotvph2" tvg-name="SPOTV 2 HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",SPOTV 2 HD (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+#EXTINF:-1 tvg-id="spotvph22" tvg-name="SPOTV 2 HD (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",SPOTV 2 HD (CIG)
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="premiersports1" tvg-name="PREMIER SPORTS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",PREMIER SPORTS (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001135/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
+#EXTINF:-1 tvg-id="premiersports-1" tvg-name="PREMIER SPORTS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PREMIER SPORTS (CIG)
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="premiersports2" tvg-name="PREMIER SPORTS 2 (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",PREMIER SPORTS 2 (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001204/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
+#EXTINF:-1 tvg-id="premiersports-2" tvg-name="PREMIER SPORTS 2 (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PREMIER SPORTS 2 (CIG)
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+
+#EXTINF:-1 tvg-id="xromcigintl" tvg-name="xROMTv InFo" tvg-logo="https://i.imgur.com/nGeOcur.png" group-title="PINOY",xROMTv InFo
+https://raw.githubusercontent.com/dhudzpanel/xromtv/main/xromtv%20intro%20ts.ts
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+#EXTINF:-1 tvg-id="bbclifestyleph" tvg-name="BBC LIFESTYLE" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",BBC LIFESTYLE
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+#EXTINF:-1 tvg-id="bbcearthph" tvg-name="BBC EARTH" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",BBC EARTH
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="bbcnewsph1" tvg-name="BBC NEWS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",BBC NEWS (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001144/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
+#EXTINF:-1 tvg-id="bbcnewsph2" tvg-name="BBC NEWS (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",BBC NEWS (CIG)
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="globtrekkerr" tvg-name="GLOBAL TREKKER" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",GLOBAL TREKKER
+http://143.44.136.110:6910/001/2/ch00000090990000001203/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="historyph1" tvg-name="HISTORY CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",HISTORY CHANNEL (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001074/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+#EXTINF:-1 tvg-id="historyph2" tvg-name="HISTORY CHANNEL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HISTORY CHANNEL (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="discoveryasia" tvg-name="DISCOVERY ASIA" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",DISCOVERY ASIA
+http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="discoveryph1" tvg-name="DISCOVERY CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",DISCOVERY CHANNEL (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+#EXTINF:-1 tvg-id="discoveryph2" tvg-name="DISCOVERY CHANNEL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",DISCOVERY CHANNEL (CIG)
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="asainfoodnet1" tvg-name="ASIAN FOOD NETWORK (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ASIAN FOOD NETWORK (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001342/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+#EXTINF:-1 tvg-id="asainfoodnet2" tvg-name="ASIAN FOOD NETWORK (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ASIAN FOOD NETWORK (CIG)
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
+#EXTINF:-1 tvg-id="foodnetworkph" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",FOOD NETWORK
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cgtndocum" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CGTN DOCUMENTARY
+http://143.44.136.110:6910/001/2/ch00000090990000001110/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cgtnph1" tvg-name="CGTN CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CGTN CHANNEL (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001146/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
+#EXTINF:-1 tvg-id="cgtnph2" tvg-name="CGTN CHANNEL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",CGTN CHANNEL (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cnaph1" tvg-name="CHANNEL NEWS ASIA (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CHANNEL NEWS ASIA (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001106/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813
+#EXTINF:-1 tvg-id="cnaph2" tvg-name="CHANNEL NEWS ASIA (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",CHANNEL NEWS ASIA (CIG)
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="hgtvph1" tvg-name="HGTV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",HGTV (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001162/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
+#EXTINF:-1 tvg-id="hgtvph2" tvg-name="HGTV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",HGTV (CIG)
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="arirang1" tvg-name="ARIRANG (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ARIRANG (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001107/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
+#EXTINF:-1 tvg-id="arirang2" tvg-name="ARIRANG (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ARIRANG (CIG)
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
+#EXTINF:-1 tvg-id="nhkjapan1" tvg-name="NHK JAPAN" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",NHK JAPAN
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="nhkbs1" tvg-name="NHK BS" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",NHK BS
+http://143.44.136.110:6910/001/2/ch00000090990000001214/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="animalplanetph1" tvg-name="ANIMAL PLANET (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ANIMAL PLANET (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001335/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+#EXTINF:-1 tvg-id="animalplanetph2" tvg-name="ANIMAL PLANET (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ANIMAL PLANET (CIG)
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+#EXTINF:-1 tvg-id="trvlchannelph" tvg-name="TRVL CHANNEL" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TRVL CHANNEL
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="crimeinvph1" tvg-name="CRIME INVESTIGATION (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CRIME INVESTIGATION (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001144/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
+#EXTINF:-1 tvg-id="crimeinvph2" tvg-name="CRIME INVESTIGATION (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",CRIME INVESTIGATION (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
+#EXTINF:-1 tvg-id="bloombergph" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",BLOOMBERG
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="aljazeeraph" tvg-name="ALJAZEERA (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ALJAZEERA (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001343/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
+#EXTINF:-1 tvg-id="aljazeeraph2" tvg-name="ALJAZEERA (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ALJAZEERA (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kbsworldph1" tvg-name="KBS WORLD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KBS WORLD (CON)
+http://143.44.136.113:6910/001/2/ch00000090990000001353/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
+#EXTINF:-1 tvg-id="kbsworldph2" tvg-name="KBS WORLD (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",KBS WORLD (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kbs2" tvg-name="KBS 2" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KBS 2
+http://143.44.136.110:6910/001/2/ch00000090990000001344/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kbsjoy" tvg-name="KBS JOY" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KBS JOY
+http://143.44.136.110:6910/001/2/ch00000090990000001123/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kixph1" tvg-name="KIX (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KIX (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001263/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
+#EXTINF:-1 tvg-id="kixph2" tvg-name="KIX (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",KIX (CIG)
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="techstormph" tvg-name="TECH STORM (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TECH STORM (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001328/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
+#EXTINF:-1 tvg-id="techstormph2" tvg-name="TECH STORM (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TECH STORM (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="fashiontvph1" tvg-name="FASHION TV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",FASHION TV (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001102/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
+#EXTINF:-1 tvg-id="fashiontvph2" tvg-name="FASHION TV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",FASHION TV (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="nhkworldjap" tvg-name="NHK WORLD" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",NHK WORLD
+http://143.44.136.110:6910/001/2/ch00000090990000001145/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kbskorea" tvg-name="KBS KOREA" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",KBS KOREA
+http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="xingkong" tvg-name="XINGKONG" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",XINGKONG
+http://143.44.136.110:6910/001/2/ch00000090990000001337/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="bspjapan" tvg-name="BS PREMIUM" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",BS PREMIUM
+http://143.44.136.110:6910/001/2/ch00000090990000001165/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="gtvkorea" tvg-name="GTV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",GTV
+http://143.44.136.110:6910/001/2/ch00000090990000001164/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tlccon" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TLC HD
+http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="warnertvph1" tvg-name="WARNER TV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",WARNER TV (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001096/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+#EXTINF:-1 tvg-id="warnertvph2" tvg-name="WARNER TV (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",WARNER TV (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CNN INTERNATIONAL (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001073/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/74?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="cnninter2" tvg-name="CNN INTERNATIONAL (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",CNN INTERNATIONAL (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="abcaustralia1" tvg-name="ABC AUSTRALIA (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",ABC AUSTRALIA (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001111/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxM7W5sifY817bTaM9CPMZSYWu4NPGwZAsA&usqp=CAU" group-title="PINOY", TNT SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/78?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
+#EXTINF:-1 tvg-id="abcaustralia2" tvg-name="ABC AUSTRALIA (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",ABC AUSTRALIA (CIG)
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s" group-title="PINOY", TNT SPORTS 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="cctv4-1" tvg-name="CCTV4 (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",CCTV4 (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001223/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/79?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
+#EXTINF:-1 tvg-id="cctv4-2" tvg-name="CCTV4 (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",CCTV4 (CIG)
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="PINOY", TNT SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="metrotv" tvg-name="METRO CHANNEL" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",METRO CHANNEL
+http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="wiontv" tvg-name="WION NEWS" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",WION NEWS
+http://143.44.136.110:6910/001/2/ch00000090990000001265/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="usatoday" tvg-name="USA TODAY" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",USA TODAY
+http://143.44.136.110:6910/001/2/ch00000090990000001199/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="seatoday" tvg-name="SEA TODAY" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",SEA TODAY
+http://143.44.136.110:6910/001/2/ch00000090990000001287/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="dwtv" tvg-name="DW NEWS" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",DW NEWS
+http://143.44.136.110:6910/001/2/ch00000090990000001166/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="foxnews" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",FOX NEWS
+http://143.44.136.110:6910/001/2/ch00000090990000001105/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="euronews" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",EURO NEWS
+http://143.44.136.110:6910/001/2/ch00000090990000001336/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="tv5monde1" tvg-name="TV5 MONDE (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",TV5 MONDE (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001156/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/80?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
+#EXTINF:-1 tvg-id="tv5monde2" tvg-name="TV5 MONDE (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",TV5 MONDE (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tv5_monde.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="france24-1" tvg-name="FRANCE24 (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="PINOY",FRANCE24 (CON)
+http://143.44.136.110:6910/001/2/ch00000090990000001157/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPGFMG64E0v86Nqm7DheefFbE3Nx1ZS4Aww&s" group-title="PINOY", TNT SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/81?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
+#EXTINF:-1 tvg-id="france24-2" tvg-name="FRANCE24 (CIG)" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",FRANCE24 (CIG)
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEsAfxkX3BaHIsP40KRI-qURsKK1OqootMHV6RjpvPghxiwbnAGF9cWhr&s=10" group-title="PINOY", TNT SPORTS 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/83?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
+#EXTINF:-1 tvg-id="nbaphpl24" tvg-name="NBA TV PH 24/7" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",NBA TV PH 24/7
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="PINOY",K+ (ENGLISH SUB)
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/2177?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f873c2c412b11edb8780242ac120002:9c1f27adc2a2dd23ce415e8563c07af6
+#EXTINF:-1 tvg-id="pl-sdi7" tvg-name="PL - SDI7" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PL - SDI7
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/smart_sdi7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50ea84d79773464192071d6fc058cba1:0b1642e0a661a780e74835fe765e1319
+#EXTINF:-1 tvg-id="pl-sdi8" tvg-name="PL - SDI8" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PL - SDI8
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/smart_sdi8.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2a24c65b3734565af71a1c3a9bbbf69:552351880bd0eb97f85c8aeccd88ffa5
+#EXTINF:-1 tvg-id="pl-sdi9" tvg-name="PL - SDI9" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PL - SDI9
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/smart_sdi9.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ad18258a9814d60a67efc6ec9fb3cbd:7ce6edd4bcf1510583c7739ac8f08e79
+#EXTINF:-1 tvg-id="pl-sd197" tvg-name="PPV - SDI97" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PPV - SDI97
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/ppvsd197.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a913faeecaac4813a55240bea0c68858:05b7d7eaba8d6410dbe234336d9b235a
+#EXTINF:-1 tvg-id="pilipinalive1" tvg-name="PILIPINAS LIVE #01" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #01
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
+#EXTINF:-1 tvg-id="pilipinalive2" tvg-name="PILIPINAS LIVE #02" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #02
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+#EXTINF:-1 tvg-id="pilipinalive3" tvg-name="PILIPINAS LIVE #03" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #03
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
+#EXTINF:-1 tvg-id="pilipinalive4" tvg-name="PILIPINAS LIVE #04" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #04
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/pl_sdi4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
+#EXTINF:-1 tvg-id="pilipinalive5" tvg-name="PILIPINAS LIVE #05" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #05
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
+#EXTINF:-1 tvg-id="pilipinalive6" tvg-name="PILIPINAS LIVE #06" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #06
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pl_sdi6.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
+#EXTINF:-1 tvg-id="pilipinalive7" tvg-name="PILIPINAS LIVE #07" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #07
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pl_sdi7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
+#EXTINF:-1 tvg-id="pilipinalive8" tvg-name="PILIPINAS LIVE #08" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #08
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/pl_sdi8.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
+#EXTINF:-1 tvg-id="pilipinalive9" tvg-name="PILIPINAS LIVE #09" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #09
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
+#EXTINF:-1 tvg-id="pilipinalive10" tvg-name="PILIPINAS LIVE #10" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="PINOY",PILIPINAS LIVE #10
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
+#EXTINF:-1 tvg-id="jungopinoytv" tvg-name="JUNGO TV PINOY" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="PINOY",JUNGO TV PINOY
+https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
+
+#EXTINF:-1 tvg-id="hollypop" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="PINOY",HALLYPOP
+https://jungotvstream-chanall.akamaized.net/jungotv/hallypop/stream.m3u8
+
+#EXTINF:-1 tvg-id="screamflix" tvg-name="SCREAMFLIX" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="PINOY",SCREAMFLIX
+https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
+
+#EXTINF:-1 tvg-id="combatgo" tvg-name="COMBAT GO" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="PINOY",COMBAT GO
+https://jungotvstream-chanall.akamaized.net/jungotv/combatgo/stream.m3u8
+
+#EXTINF:-1 tvg-id="frontrow" tvg-name="FRONTROW" tvg-logo="https://i.imgur.com/vaVmDOR.png" group-title="PINOY",FRONTROW
+https://jungotvstream-chanall.akamaized.net/jungotv/frontrow/stream.m3u8
