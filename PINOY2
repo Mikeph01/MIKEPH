@@ -1,0 +1,261 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pnghut.com/25/24/21/CZB9D1qyfu/news-broadcasting-red-symbol-sphere-philippines.jpg" group-title="PINOY", 01. TV5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/1?.mpd?token=r4r578fyjh3678ggtt219
+
+
+
+EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/ABS-CBN_%282013%29.svg", 04. ABS-CBN
+https://shorten.is/Mikeph-kapamilya-onlinelive-m3u8
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://www.logolynx.com/images/logolynx/df/df68e11201d36cdb11f944c035a4d72b.jpeg", 06. TFC 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/84?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/200?cb=20220716040159" group-title="PINOY", 05. A2Z
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/3?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7f/RPTV_Logo_2024.png/revision/latest/scale-to-width-down/80?cb=20240305140759" group-title="PINOY", 07. RPTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/4?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" ch-number="03" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKm2Lrh11LXGy-bF04OpzO3M4xMrbRigxnTzbIFP5gMYKsSmAkwZnw_wsu&s=10", 06. KAPAMILYA CHANNEL 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/5?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCU5RfFBChLXzBJBzMJ4lfEg0MYnlPWqyxQ&s" group-title="PINOY", 08. PTV 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/6?.mpd?token=r4r578fyjh3678ggtt219
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="PINOY", 09. BUKO CHANNEL 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/7?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/3/36/Sari-Sari_Channel_Logo_2016.png/revision/latest/scale-to-width-down/300?cb=20210301154319" group-title="PINOY", 10. SARI SARI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/8?.mpd?token=r4r578fyjh3678ggtt219
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="PINOY", 11. IBC13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/9?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo!_3D_Logo_2011.png/revision/latest/scale-to-width-down/300?cb=20210301131124" tvg-name="" group-title="PINOY", 14. CINEMO
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/10?.m3u8?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.logo.wine/a/logo/Cinema_One/Cinema_One-Logo.wine.svg" tvg-name="" group-title="PINOY", 15. CINEMA ONE 
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/11?.m3u8?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="PINOY", 16. PBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/12?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.WZu12on180yXWnLkIl4whQHaEK?rs=1&pid=ImgDetMain" group-title="PINOY", 17. THRILL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/13?.mpd?token=r4r578fyjh3678ggtt219
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.Ff_fy8A05o_RZZIBvzhqkQAAAA?rs=1&pid=ImgDetMain" group-title="PINOY", 19. TMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/14?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png", 05. TELERADYO
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/2?.m3u8?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f000de90-2048-4d0b-bd1f-d8d146779bc4/det3ewh-c49c39c9-7b5c-4f03-b5ef-646c2c61c716.png/v1/fill/w_600,h_228/_mock__viva_cinema_logo_2001_by_ntxl351_det3ewh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI4IiwicGF0aCI6IlwvZlwvZjAwMGRlOTAtMjA0OC00ZDBiLWJkMWYtZDhkMTQ2Nzc5YmM0XC9kZXQzZXdoLWM0OWMzOWM5LTdiNWMtNGYwMy1iNWVmLTY0NmMyYzYxYzcxNi5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.uzgoYX5IIrJYNEgpkGNcfCOrBhL_IIZhuvEdBbqI6d8" group-title="PINOY", 20. VIVA CIMEMA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/15?.m3u8?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryVjRiL1_mN3l9OBntbfYCx8Fc5yvm8YEUg&usqp=CAU" tvg-name="" group-title="PINOY", 02. GMA TV
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/76?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGm1W-57TY0Zg_hWDPvqrZDnTTy09VMlTKg&s" tvg-name="" group-title="PINOY", 02. GTV
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/77?.m3u8?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbda230f9f7d779f429385b49c156ac7:44242e42ba3c3c36b13e5085b3937617
+#EXTINF:4 tvg-id="HEART OF ASIA" provider="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJwpGz8Hy5ryi64g6CR4a52nXPgxZLe1LvA&usqp=CAU" provider-logo="" provider-type="iptv" group-title="PINOY",Heart Of Asia
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/1316?.mpd?token=r4r578fyjh3678ggtt219
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e75f0360828d047b0fb7eb3fbe40ad3:c33bc1ba6b3b19aac1109461b9100f5f
+#EXTINF:5 tvg-id="I HEART MOVIES" provider="PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" provider-logo="" provider-type="iptv" group-title="PINOY",I Heart Movies
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/1317?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmXoj8B44LUmJgtUZQ25kAwspLTPbWD1Znw&s" group-title="PINOY", 22. HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/16?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WGZ6jLOdhRQskpcHJDuzID86qxwsmA9yug&s" group-title="PINOY", 23. HBO FAMILY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/17?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png" group-title="PINOY", 24. HBO SIGNATURE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/18?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PINOY", 25. HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/19?.mpd?token=r4r578fyjh3678ggtt219
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="PINOY", 26. CENEMAX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/20?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/R.88256ba5d8a002dad0a210a2af84db8e?rik=Ozw3TcnjBZgKrQ&riu=http%3a%2f%2fwww.tapdmv.com%2flogo-TapMovies-2021.png&ehk=METEdvYRHjzywPX6UlLVdNOPJ3n%2b6FzI7V7P" group-title="PINOY", 27. TAP MOVIES HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/21?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tapdmv.com/logo-TapActionFlix-2021.png" group-title="PINOY", 28. TAP ACTION FLIX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/22?.mpd?token=r4r578fyjh3678ggtt219
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnooWK9mfo3egjw3scNfbGRZRCYNUEmSPHD8ZGVxaphqRnounKx2KHT4&s=10" group-title="PINOY", 29. HITS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/23?.mpd?token=r4r578fyjh3678ggtt219
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 29.1 HITS MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f856762412b11edb8780242ac120002:7199bc900b9e23087d3a2c0c6d4edce4
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/24?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-ntOmelaOpQq5DsmOeCCjzK_bfEbffqKzA&s" group-title="PINOY", 30. KIX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/25?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiPUyKYroLpj6R_ryYFmnxkrz2ssxZPjYjh5byckvQYUPxp7s_wbMtsgI&s=10" group-title="PINOY", 31. TVN MOVIES PINOY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/26?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 32. TVNPRE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/27?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 33. LOTUS MACAU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/28?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="PINOY", 34. ONESPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/29?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="PINOY", 35. ONE SPORTS+ HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/30?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.ThotwKegMgdhfX4hz-zW7QHaEK?rs=1&pid=ImgDetMain" group-title="PINOY", 36. UAAP VARSITY CH 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/31?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="PINOY", 37. PBA RUSH HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/32?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMLnQ1wzZf64E0Yuwkr7QWGMaVnjzmTn1BA&s", 37. NBA TV PHILIPPINES 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/33?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="PINOY", 38. TAP SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/34?.mpd?token=r4r578fyjh3678ggtt219
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="PINOY", 39. CARTOON NETWORK 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff954155
