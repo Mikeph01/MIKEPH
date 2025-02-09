@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" ch-number="" group-title="PINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsMqWczxA4iIuu3wOW3de2a84rBGbNkSYGGw&usqp=CAU",0. AVAILABLE SUBSCRIPTION VIP PLAYLIST CONTACT MIKEPH
-https://github.com/Mikeph01/MIKEPH/raw/refs/heads/main/mainte.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img1.pnghut.com/25/24/21/CZB9D1qyfu/news-broadcasting-red-symbol-sphere-philippines.jpg" group-title="PINOY", 01. TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
