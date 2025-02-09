@@ -7,12 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/1?.mpd?token=r4r578fyjh3678ggtt219
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f000de90-2048-4d0b-bd1f-d8d146779bc4/det3ewh-c49c39c9-7b5c-4f03-b5ef-646c2c61c716.png/v1/fill/w_600,h_228/_mock__viva_cinema_logo_2001_by_ntxl351_det3ewh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI4IiwicGF0aCI6IlwvZlwvZjAwMGRlOTAtMjA0OC00ZDBiLWJkMWYtZDhkMTQ2Nzc5YmM0XC9kZXQzZXdoLWM0OWMzOWM5LTdiNWMtNGYwMy1iNWVmLTY0NmMyYzYxYzcxNi5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.uzgoYX5IIrJYNEgpkGNcfCOrBhL_IIZhuvEdBbqI6d8" group-title="PINOY", 20. VIVA CIMEMA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/15?.m3u8?token=r4r578fyjh3678ggtt219
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRryVjRiL1_mN3l9OBntbfYCx8Fc5yvm8YEUg&usqp=CAU" tvg-name="" group-title="PINOY", 02. GMA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -108,6 +103,12 @@ http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/4912?token=r4r578fyjh3678ggtt
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/12?.mpd?token=r4r578fyjh3678ggtt219
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f000de90-2048-4d0b-bd1f-d8d146779bc4/det3ewh-c49c39c9-7b5c-4f03-b5ef-646c2c61c716.png/v1/fill/w_600,h_228/_mock__viva_cinema_logo_2001_by_ntxl351_det3ewh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI4IiwicGF0aCI6IlwvZlwvZjAwMGRlOTAtMjA0OC00ZDBiLWJkMWYtZDhkMTQ2Nzc5YmM0XC9kZXQzZXdoLWM0OWMzOWM5LTdiNWMtNGYwMy1iNWVmLTY0NmMyYzYxYzcxNi5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.uzgoYX5IIrJYNEgpkGNcfCOrBhL_IIZhuvEdBbqI6d8" group-title="PINOY", 20. VIVA CIMEMA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+http://xtream-ie.org:80/live/nxAVjjLZzQ7/RMoo1EZZ6/15?.m3u8?token=r4r578fyjh3678ggtt219
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.WZu12on180yXWnLkIl4whQHaEK?rs=1&pid=ImgDetMain" group-title="PINOY", 17. THRILL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
