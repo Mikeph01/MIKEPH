@@ -143,11 +143,11 @@ http://xtream-ie.org:80/live/HONORTV/UEJWBI/14?.mpd?token-7455792984849386629057
 
 
 
-#EXTINF:-1 tvg-id="" ch-number="" group-title="🇵🇭 PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png", TELERADYO
+EXTINF:-1 tvg-id="" ch-number="" group-title="🇵🇭 PINOY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png", TELERADYO
 http://xtream-ie.org:80/live/HONORTV/UEJWBI/2?.m3u8?token-745579298484938662905703877397479837774938748937839827738377374837373839489393773849392928763552652783939
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" tvg-name="" group-title="🇵🇭 PINOY", CELESTIAL MOVIES 🇵🇭 PINOY
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGKCQ_K-qezUD6gcj6OcuDCUImSfnOv4jYFg&s" tvg-name="" group-title="🇵🇭 PINOY", CELESTIAL MOVIES PINOY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -225,7 +225,7 @@ http://xtream-ie.org:80/live/HONORTV/UEJWBI/24?.mpd?token-7455792984849386629057
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 http://xtream-ie.org:80/live/HONORTV/UEJWBI/25?.mpd?token-745579298484938662905703877397479837774938748937839827738377374837373839489393773849392928763552652783939
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiPUyKYroLpj6R_ryYFmnxkrz2ssxZPjYjh5byckvQYUPxp7s_wbMtsgI&s=10" group-title="🇵🇭 PINOY", TVN MOVIES 🇵🇭 PINOY
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiPUyKYroLpj6R_ryYFmnxkrz2ssxZPjYjh5byckvQYUPxp7s_wbMtsgI&s=10" group-title="🇵🇭 PINOY", TVN MOVIES PINOY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -246,6 +246,11 @@ http://xtream-ie.org:80/live/HONORTV/UEJWBI/27?.mpd?token-7455792984849386629057
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 http://xtream-ie.org:80/live/HONORTV/UEJWBI/28?.mpd?token-745579298484938662905703877397479837774938748937839827738377374837373839489393773849392928763552652783939
 
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+#EXTINF:-1 tvg-id="rockactionph" tvg-name="ROCK ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbGG7zfioU6qtYZPoKLupXer5SeaqEvTxlg&usqp=CAU" group-title="🇵🇭 PINOY",ROCK ACTION
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
